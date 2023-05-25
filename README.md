@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enis Tunç</h1>
 <h3 align="center">I am interested in cyber security and full-stack development.</h3>
 
-- 🌱 I’m currently learning **javascript and C#**
+- 🌱 I’m currently learning **javascript**
 
 <p align="left">
 </p>
